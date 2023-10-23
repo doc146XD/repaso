@@ -1,3 +1,8 @@
 <?php
 
- echo"sopa";
+ echo"sopa\n";
+
+ echo"jamon\n";
+
+ echo"queso\n";
+
